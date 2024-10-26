@@ -1,0 +1,4 @@
+# Apache-Log-Tracker-PHP
+An old work project that was never put into prod
+
+This was code I had written when tasked by my boss to write a php file that would take in a whole directory of log files (mainly apache) and sort through to find all the errors and order them. I think he wanted this code to replace the log tracking service he was paying for. This is written in PHP and most of the code was based off Project 3 from CMPT251, using regular expressions. I'm pretty sure this isn't comprehensive in any way, but it does work. I was laid off before I could finish the code and I have no plans on finishing the code so it's posted here.
